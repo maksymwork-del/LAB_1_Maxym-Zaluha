@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Лабараторна робота 1_Залуга Максим 9 варіант.obj",
+            "outputs": [
+                "x64\\Debug\\Лабараторна робота 1_Залуга Максим 9 варіант.cpp.obj.dt.module.json",
+                "x64\\Debug\\Лабараторна робота 1_Залуга Максим 9 варіант.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
